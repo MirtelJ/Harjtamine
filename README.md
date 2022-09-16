@@ -1,0 +1,2 @@
+# Harjtamine
+versioonihalduse harjutamine GitHubis
